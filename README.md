@@ -1,3 +1,5 @@
+Here is a project developed with Théo Rouvet (https://www.linkedin.com/in/theo-rouvet/) in image processing on Python 3.
+
 The objective of the project is to combine different shots of the same scene with different opening times, in order to create a high quality image, which should not have been under-exposed or used in the HDR assembly.
 
 The technique used is based on taking images of the same images below different exposure levels and recognizing, for each person, the required image and finding the best exposure using three criteria (contrast, saturation and exposure).
